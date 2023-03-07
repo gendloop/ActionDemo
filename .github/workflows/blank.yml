@@ -9,7 +9,7 @@ on:
     branches: 
       - main
     tags:
-      - v.*
+      - v1.* 
     
   pull_request:
     branches: [ "main" ]
